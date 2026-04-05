@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Currency Converter</string>
+
+    <!-- Main Screen -->
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="settings">Settings</string>
+
+    <!-- Currency -->
+    <string name="inr">INR</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="jpy">JPY</string>
+
+    <!-- Settings Screen -->
+    <string name="select_theme">Select Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>

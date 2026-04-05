@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoApp</string>
+    <string name="image_details">Image Details</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="details_placeholder">Image information will appear here</string>
+
+</resources>
